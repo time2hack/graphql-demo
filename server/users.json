@@ -1,0 +1,171 @@
+{
+  "5a826fdf27256fa9ba444cd4": {
+    "id": "5a826fdf27256fa9ba444cd4",
+    "email": "nancy.palmer@example.com",
+    "fullName": "Nancy Palmer",
+    "name": {
+      "last": "Palmer",
+      "first": "Nancy"
+    },
+    "picture": "http://placehold.it/32x32",
+    "friends": [
+      "5a826fdf50f698c2d9c492ca",
+      "5a826fdf40b7d805ca2d6e75",
+      "5a826fdf066dca8b5f7d127a",
+      "5a826fdf27256fa9ba444cd4",
+      "5a826fdf6f0122089221a930",
+      "5a826fdf50f698c2d9c492ca",
+      "5a826fdf6f0122089221a930",
+      "5a826fdf40b7d805ca2d6e75"
+    ]
+  },
+  "5a826fdfc3cdf1690c71e00f": {
+    "id": "5a826fdfc3cdf1690c71e00f",
+    "email": "rebekah.hernandez@example.com",
+    "fullName": "Rebekah Hernandez",
+    "name": {
+      "last": "Hernandez",
+      "first": "Rebekah"
+    },
+    "picture": "http://placehold.it/32x32",
+    "friends": [
+      "5a826fdf40b7d805ca2d6e75",
+      "5a826fdf40b7d805ca2d6e75",
+      "5a826fdf27256fa9ba444cd4",
+      "5a826fdf6f0122089221a930",
+      "5a826fdf2edf272683abe3ca",
+      "5a826fdf50f698c2d9c492ca",
+      "5a826fdf6f0122089221a930",
+      "5a826fdf6f0122089221a930",
+      "5a826fdf066dca8b5f7d127a"
+    ]
+  },
+  "5a826fdf9856ad6503d728d5": {
+    "id": "5a826fdf9856ad6503d728d5",
+    "email": "stanton.hansen@example.com",
+    "fullName": "Stanton Hansen",
+    "name": {
+      "last": "Hansen",
+      "first": "Stanton"
+    },
+    "picture": "http://placehold.it/32x32",
+    "friends": [
+      "5a826fdf0d054a6fab7bb067",
+      "5a826fdf50f698c2d9c492ca",
+      "5a826fdf0d054a6fab7bb067"
+    ]
+  },
+  "5a826fdf0d054a6fab7bb067": {
+    "id": "5a826fdf0d054a6fab7bb067",
+    "email": "barr.wolf@example.com",
+    "fullName": "Barr Wolf",
+    "name": {
+      "last": "Wolf",
+      "first": "Barr"
+    },
+    "picture": "http://placehold.it/32x32",
+    "friends": [
+      "5a826fdf40b7d805ca2d6e75",
+      "5a826fdf40b7d805ca2d6e75"
+    ]
+  },
+  "5a826fdf50f698c2d9c492ca": {
+    "id": "5a826fdf50f698c2d9c492ca",
+    "email": "hayden.smith@example.com",
+    "fullName": "Hayden Smith",
+    "name": {
+      "last": "Smith",
+      "first": "Hayden"
+    },
+    "picture": "http://placehold.it/32x32",
+    "friends": [
+      "5a826fdf50f698c2d9c492ca",
+      "5a826fdfc3cdf1690c71e00f",
+      "5a826fdf2edf272683abe3ca",
+      "5a826fdf066dca8b5f7d127a",
+      "5a826fdf6f0122089221a930"
+    ]
+  },
+  "5a826fdf066dca8b5f7d127a": {
+    "id": "5a826fdf066dca8b5f7d127a",
+    "email": "russell.sims@example.com",
+    "fullName": "Russell Sims",
+    "name": {
+      "last": "Sims",
+      "first": "Russell"
+    },
+    "picture": "http://placehold.it/32x32",
+    "friends": [
+      "5a826fdf9856ad6503d728d5",
+      "5a826fdf2edf272683abe3ca",
+      "5a826fdf066dca8b5f7d127a",
+      "5a826fdf066dca8b5f7d127a",
+      "5a826fdfc3cdf1690c71e00f",
+      "5a826fdf50f698c2d9c492ca"
+    ]
+  },
+  "5a826fdfa4c1ca0d27881218": {
+    "id": "5a826fdfa4c1ca0d27881218",
+    "email": "hazel.rodriguez@example.com",
+    "fullName": "Hazel Rodriguez",
+    "name": {
+      "last": "Rodriguez",
+      "first": "Hazel"
+    },
+    "picture": "http://placehold.it/32x32",
+    "friends": [
+      "5a826fdf27256fa9ba444cd4",
+      "5a826fdf066dca8b5f7d127a",
+      "5a826fdf9856ad6503d728d5",
+      "5a826fdfa4c1ca0d27881218",
+      "5a826fdfc3cdf1690c71e00f",
+      "5a826fdf27256fa9ba444cd4",
+      "5a826fdf0d054a6fab7bb067",
+      "5a826fdf50f698c2d9c492ca"
+    ]
+  },
+  "5a826fdf40b7d805ca2d6e75": {
+    "id": "5a826fdf40b7d805ca2d6e75",
+    "email": "kent.clemons@example.com",
+    "fullName": "Kent Clemons",
+    "name": {
+      "last": "Clemons",
+      "first": "Kent"
+    },
+    "picture": "http://placehold.it/32x32",
+    "friends": [
+      "5a826fdfc3cdf1690c71e00f",
+      "5a826fdf27256fa9ba444cd4",
+      "5a826fdf6f0122089221a930",
+      "5a826fdf0d054a6fab7bb067",
+      "5a826fdf066dca8b5f7d127a"
+    ]
+  },
+  "5a826fdf2edf272683abe3ca": {
+    "id": "5a826fdf2edf272683abe3ca",
+    "email": "hughes.mcguire@example.com",
+    "fullName": "Hughes Mcguire",
+    "name": {
+      "last": "Mcguire",
+      "first": "Hughes"
+    },
+    "picture": "http://placehold.it/32x32",
+    "friends": [
+      "5a826fdfc3cdf1690c71e00f"
+    ]
+  },
+  "5a826fdf6f0122089221a930": {
+    "id": "5a826fdf6f0122089221a930",
+    "email": "maxine.bird@example.com",
+    "fullName": "Maxine Bird",
+    "name": {
+      "last": "Bird",
+      "first": "Maxine"
+    },
+    "picture": "http://placehold.it/32x32",
+    "friends": [
+      "5a826fdf27256fa9ba444cd4",
+      "5a826fdf2edf272683abe3ca"
+    ]
+  }
+}

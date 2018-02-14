@@ -69,4 +69,8 @@ And will receive the response as follows:
 ```
 And the good part is that the data can be from any interface, be it the RDBMS, NoSQL DB, a File or even in-memory operation.
 
+[Read how to use Server](./server/README.md)
+
+[Read how to use Client](./client/README.md)
+
 Read full post at https://time2hack.com/2018/02/introduction-quick-guide-to-graphql-for-backend-frontend/

@@ -4,7 +4,8 @@
   "description": "",
   "main": "./server.js",
   "scripts": {
-    "start": "node ./server.js"
+    "start": "node ./server.js",
+    "start:rest": "node ./server.js"
   },
   "keywords": [],
   "author": "Pankaj Patel",

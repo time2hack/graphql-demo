@@ -28,12 +28,10 @@ const appendData = (data) => {
   app.innerHTML = '';
   data.users.map(user => {
     const d = document.createElement('div');
-    d.innerHTML = `
-      <div class="user">
-        <h3>${user.fullName}</h3>
-        <p>${user.email}</p>
-      </div>
-    `;
+    d.innerHTML = `<div class="user">
+      <h3>${user.fullName}</h3>
+      <p>${user.email}</p>
+    </div>`;
     app.appendChild(d.firstElementChild);
   })
 }

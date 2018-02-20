@@ -1,5 +1,7 @@
 # graphql-demo
 
+[![HitCount](http://hits.dwyl.io/time2hack/graphql-demo.svg)](http://hits.dwyl.io/time2hack/graphql-demo)
+
 GraphQL is an API query language. It provides a runtime to describe and query the data, no matter what the storage engine is.
 
 GraphQL's benefits include
